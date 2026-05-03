@@ -1,0 +1,6 @@
+{
+  "name": "ColorPro Pantone Bridge",
+  "description": "Professional tool to process Pantone Color Bridge values, convert to RGB/HEX, classify into groups, and export as PDF/CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
